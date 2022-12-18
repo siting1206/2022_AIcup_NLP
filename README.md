@@ -1,1 +1,1 @@
-# AIcup_NLP
+# 2022 AIcup 作物影像判釋
