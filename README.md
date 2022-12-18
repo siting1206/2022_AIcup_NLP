@@ -35,12 +35,14 @@ swinv2_base_window12to24_192to384_22kft1k
 │  │  ├─bambooshoots
 │  │  ├─betal
 │  │  ├─......
+│  │  ├─tea
 │  │  └─waterbamboo
 │  └─train
 │     ├─asparagus
 │     ├─bambooshoots
 │     ├─betal
 │     ├─......
+│     ├─tea
 │     └─waterbamboo
 ```
 
